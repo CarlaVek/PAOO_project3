@@ -1,0 +1,4 @@
+/home/carla/PAOO_proiect3/build/CMakeFiles/unsafe_writer.dir
+/home/carla/PAOO_proiect3/build/CMakeFiles/safe_writer.dir
+/home/carla/PAOO_proiect3/build/CMakeFiles/edit_cache.dir
+/home/carla/PAOO_proiect3/build/CMakeFiles/rebuild_cache.dir

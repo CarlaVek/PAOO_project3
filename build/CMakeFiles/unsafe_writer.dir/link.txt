@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/unsafe_writer.dir/src/unsafe_writer.cpp.o -o unsafe_writer 

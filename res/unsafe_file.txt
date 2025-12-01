@@ -1,0 +1,3 @@
+Alice: Hello from Alice
+Bob: I can't wait for Christmas
+Charlie: Bob scares me sometimes

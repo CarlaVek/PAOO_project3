@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/safe_writer.dir/src/safe_writer.cpp.o -o safe_writer 
