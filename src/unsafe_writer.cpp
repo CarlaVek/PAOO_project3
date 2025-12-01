@@ -13,7 +13,7 @@ void studentWrite(
 }
 
 int main() {
-    auto file = std::make_shared<std::ofstream>("unsafe_file.txt");
+    auto file = std::make_shared<std::ofstream>("res/unsafe_file.txt");
 
     if (!file->is_open()) {
         std::cerr << "Failed to open file\n";
